@@ -1,2 +1,2 @@
-<h1>wangqitong.github.io</h1>
+<h1>wang-qitong.github.io</h1>
 创建自己的GitHub博客
